@@ -1,5 +1,0 @@
-{{#user}
-Name: Ajay Chandra
-Skills: HTML, CSS, JS, c#, MsSQL and ADO.NET, .NET, Blogging, MS-Office, Building Apps
-Email: ajaychandrapyla@gmail.com
-{{/user}}
